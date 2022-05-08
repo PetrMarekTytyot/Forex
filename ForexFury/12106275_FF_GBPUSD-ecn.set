@@ -1,0 +1,44 @@
+User=Tytyot
+DescTradeSettings========== Trade Settings =========
+InpTradeDirection=2
+Lot_Size=0.1
+UseIncreamentalLotSize=true
+RiskPerCyclePercentage=1.0
+Stop_Loss=150
+Take_Profit=5
+MaxOrders=7
+InpReverseStrategy=false
+InpOneSetTradePerDay=false
+InpOnlyRangeTrading=false
+MaxSpread=7
+Max_Slippage=3
+Magic_Number=21000
+DescDynamicRetrace========= Dynamic Retrace ========
+InpUseDynamicRetrace=false
+InpRetraceTrigger=-30
+InpRetraceExit=-5
+DescMartingale============ Martingale ===========
+InpUseMartingale=false
+InpLotMultiplier=2.0
+InpMartingaleMaxSteps=3
+DescTrailingStop=========== Trailing Stop ==========
+InpUseTrailingStop=false
+InpTrailingStart=3.0
+InpTrailingStep=1.0
+InpTrailingStop=3.0
+DescTradingTime=========== Trading Time ==========
+StartTradingTime=22:00:00
+EndTradingTime=23:59:00
+TradeOnMonday=true
+TradeOnTuesday=true
+TradeOnWednesday=true
+TradeOnThursday=true
+TradeOnFriday=true
+DescPanel============== Panel =============
+InpDisplayPanel=true
+InpPanelPosition=2
+InpBGColor=14772545
+InpTextColor=16777215
+InpTextFontSize=10
+InpOffsetX=15
+InpOffsetY=15
