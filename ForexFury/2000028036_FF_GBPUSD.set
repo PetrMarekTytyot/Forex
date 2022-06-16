@@ -1,7 +1,7 @@
 User=Tytyot
 DescTradeSettings========== Trade Settings =========
 InpTradeDirection=2
-Lot_Size=0.5
+Lot_Size=0.08
 UseIncreamentalLotSize=false
 RiskPerCyclePercentage=20.0
 Stop_Loss=1000
